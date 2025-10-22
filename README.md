@@ -1,4 +1,4 @@
-# Annotation et Classification du Pronom "on"
+# Identification de la Langue maternelle d'un locuteur en fonction de sa production écrite en français
 
 ## 🎯 Objectif
 
